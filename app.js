@@ -3,6 +3,7 @@ const lessonsData = {
     1: { day: 1, week: 1, topic: "Basic Greetings", vocabulary: [
         {italian: "Ciao", tagalog: "Kumusta", english: "Hello/Bye"},
         {italian: "Buongiorno", tagalog: "Magandang umaga", english: "Good morning"},
+        {italian: "Buon pomeriggio", tagalog: "Magandang tanghali", english: "Good afternoon"},
         {italian: "Buonasera", tagalog: "Magandang gabi", english: "Good evening"},
         {italian: "Buonanotte", tagalog: "Magandang gabi", english: "Good night"}
     ], practice: "Say each greeting aloud 5 times. Practice at different times of day." },
